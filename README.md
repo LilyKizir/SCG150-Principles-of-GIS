@@ -10,7 +10,7 @@ Each lab focused on a specific set of GIS tools and techniques. This repo serves
 ## 🧪 Lab 1 – Introduction to ArcGIS Pro
 
 **Objective:**  
-In this Lab I got familiar with the ArcGIS Pro interface, navigation tools, map views, and basic feature interaction. This lab emphasized organizing a GIS workspace and using fundamental tools like bookmarks, scale control, and measurement.
+In this Lab, I got familiar with the ArcGIS Pro interface, navigation tools, map views, and basic feature interaction. This lab emphasized organizing a GIS workspace and using fundamental tools like bookmarks, scale control, and measurement.
 
 ---
 
