@@ -32,4 +32,4 @@ Get familiar with the ArcGIS Pro interface, navigation tools, map views, and bas
 > "I enjoyed seeing tabular data selection show up on the visual map. I struggled at times finding some of the buttons, but overall I really like the layout and user experience in ArcGIS."
 
 ---
-MD Generated with Chatgpt
+
