@@ -1,7 +1,7 @@
 # SCG150-Principles-of-GIS
 Coursework for SCG150 Principles of GIS
 
-This repository contains my work from a **Principles of ArcGIS** course, including 11 lab assignments and a final project. The course introduced key GIS concepts using ArcGIS Pro, building foundational skills in spatial analysis, data management, cartographic design, and more.
+This repository contains my work from **SCG 150 Principles of ArcGIS** course, including 11 lab assignments and a final project. The course introduced key GIS concepts using ArcGIS Pro, building foundational skills in spatial analysis, data management, cartographic design, and more.
 
 Each lab focused on a specific set of GIS tools and techniques. This repo serves both as a personal archive and a showcase of my learning progress throughout the semester.
 
