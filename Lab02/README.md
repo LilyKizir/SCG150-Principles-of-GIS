@@ -16,7 +16,7 @@
 - Customized symbol size, color, and class breaks for better visual impact
 - Applied consistent symbology for supporting layers (e.g., lakes, rivers, countries)
 - Labeled cities with names and adjusted fonts and scale visibility
-- Exported a clean and informative proportional symbol map
+- Exported a clean and informative proportional symbol map as a JPEG
 
 **Reflection:**  
 > This lab helped solidify my understanding of how **symbology can be used to effectively communicate both categorical and numerical data**. It also emphasized the importance of visual hierarchy, color choices, and clean labeling when designing maps for presentation.
